@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @redpopcorn
+- 👋 Hi, I’m @Arush Gupta
 - 👀 I’m interested in gaming projects ,startups ,ai
-- 🌱 I’m currently learning for cool projects jobs
+- 🌱 I’m currently learning for cool projects, jobs
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me  through my email arushgupta1905@gmail.com
 - 😄 Pronouns: male
