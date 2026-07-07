@@ -50,11 +50,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/redpopcorn/redpopcorn/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ### 👀 Profile Views
 
